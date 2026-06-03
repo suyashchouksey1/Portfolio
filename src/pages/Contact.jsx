@@ -7,7 +7,7 @@ import linkedinLogo from "/linkedin.png";
 import gmailLogo from "/gmail.png";
 import whatsappLogo from "/whatsapp.png";
 import instagramLogo from "/insta.png";
-import facebookLogo from "../../public/facebook.png";
+import facebookLogo from "/facebook.png";
 
 import "../CSS/Contact.css"
 
