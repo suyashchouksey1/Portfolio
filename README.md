@@ -9,6 +9,8 @@ This portfolio showcases my projects, technical skills, internship experience, a
 
 # 🖼️ Screenshots
 
+<img width="1892" height="1080" alt="Portfolio" src="https://github.com/user-attachments/assets/44baa801-f13c-4f61-a082-b0de134b0a72" />
+
 ---
 
 ## 🚀 Features
