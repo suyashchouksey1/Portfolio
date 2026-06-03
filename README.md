@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website built using **React.js**, **modern UI design**, and responsive web technologies.
 This portfolio showcases my projects, technical skills, internship experience, and journey as a **MERN Stack Developer** passionate about building scalable and responsive web applications.
 
-🌐 **Website:** [Your Portfolio Link Here]
+🌐 **Website:** https://suyash-chouksey-portfolio.netlify.app
 
 ---
 
