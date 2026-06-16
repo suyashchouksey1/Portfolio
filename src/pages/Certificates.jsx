@@ -26,6 +26,24 @@ const CERTS = {
       link: "/certs/adira.png",
     },
   ],
+
+  internships: [
+    {
+      title: "MERN Stack Developer",
+      org: "Indvibe Infotech Pvt Ltd",
+      date: "2025",
+      img: "/certs/Intern1.jpg",
+      link: "/certs/Intern1.jpg",
+    },
+    {
+      title: "Frontend Developer",
+      org: "Pop Up Food & Beverages,",
+      date: "2024",
+      img: "/certs/Intern2.png",
+      link: "/certs/Intern2.png",
+    }
+  ],
+  
   other: [
     {
       title: "codathon",
@@ -65,7 +83,7 @@ export default function Certificates() {
 
         {/* Tabs */}
         <div style={{ display: "flex", gap: 10, marginTop: 16 }}>
-          {["tech", "other"].map((t) => (
+          {["tech", "internships", "other"].map((t) => (
             <button
               key={t}
               onClick={() => setTab(t)}
@@ -81,7 +99,7 @@ export default function Certificates() {
                 transition: "0.3s",
               }}
             >
-              {t === "tech" ? "Tech" : "Others"}
+              {t === "tech" ? "Tech": t === "internships" ? "Internships" : "Others"}
             </button>
           ))}
         </div>
