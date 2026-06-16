@@ -6,7 +6,7 @@ const PROJECTS = [
   {
     title: " 🧺 Food Donation System",
     desc: "A full stack MERN web application that connects donors, NGOs, and needy people to reduce food wastage and manage food donations efficiently.",
-    ss: "/Food-Bank.png",
+    ss: "/Project/Food-Bank.png",
     tech: ["MongoDB", "Express.js", "React", "Node.js"],
     live: "https://food-bank-mu.vercel.app/",
     code: "https://github.com/suyashchouksey1/Food-Bank",
@@ -14,7 +14,7 @@ const PROJECTS = [
   {
     title: "✈️ Dream Traveler",
     desc: "A travel booking and destination exploration platform where users can discover locations, view packages, and manage travel plans and book ticket Online.",
-    ss: "/Dream-Traveler.png",
+    ss: "/Project/Dream-Traveler.png",
     tech: ["MongoDB", "Express.js", "React", "Node.js"],
     live: "https://dream-traveler-frontend.netlify.app/",
     code: "https://github.com/suyashchouksey1/Dream-Traveler",
@@ -22,7 +22,7 @@ const PROJECTS = [
   {
     title: "💼 Portfolio Website",
     desc: "A modern and responsive portfolio built with React and Framer Motion, showcasing projects, skills, and achievements with smooth animations and interactive UI.",
-    ss: "/Portfolio.png",
+    ss: "/Project/Portfolio.png",
     tech: ["React", "Framer Motion", "Tailwind CSS"],
     live: "#",
     code: "https://github.com/kunj2803/Kunj-Portfolio",
@@ -30,7 +30,7 @@ const PROJECTS = [
   {
     title: "🎬 Netflix Clone",
     desc: "A responsive Netflix landing page clone built with modern frontend technologies, featuring pixel-perfect UI design and responsive layouts.",
-    ss: "/Netflix.png",
+    ss: "/Project/Netflix.png",
     tech: ["HTML", "CSS", "JavaScript"],
     live: "https://merry-entremet-0c4178.netlify.app",
     code: "https://github.com/suyashchouksey1/Netflix-Clone",
@@ -38,7 +38,7 @@ const PROJECTS = [
   {
     title: "🛒 Amazon Clone",
     desc: "An e-commerce frontend clone inspired by Amazon with product sections, navigation menus, and responsive layouts.",
-    ss: "/Amazon.png",
+    ss: "/Project/Amazon.png",
     tech: ["HTML", "CSS", "JavaScript"],
     live: "https://symphonious-pavlova-e3fe1e.netlify.app",
     code: "https://github.com/suyashchouksey1/Amazon-Clone",
@@ -46,7 +46,7 @@ const PROJECTS = [
   {
     title: "🛍️ Flipkart Clone",
     desc: "A responsive Flipkart-inspired e-commerce UI clone showcasing product cards, banners, and shopping layouts.",
-    ss: "/Flipkart.png",
+    ss: "/Project/Flipkart.png",
     tech: ["HTML", "CSS", "JavaScript"],
     live: "https://delicate-conkies-afb06e.netlify.app",
     code: "https://github.com/suyashchouksey1/Flipkart-Clone",
